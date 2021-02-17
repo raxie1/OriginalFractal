@@ -21,7 +21,5 @@ public void fractal(double x, double y, double size)
     fractal(x+size/2, y-size/2, size/2);
     fractal(x+size/2, y-size/2, size/2);
     fractal(x+size/2, y-size/2, size/2);
-    fractal(x+size/2, y-size/2, size/2);
-    fractal(x+size/2, y-size/2, size/2);
   }
 }
